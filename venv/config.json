@@ -1,0 +1,7 @@
+{"local_folder": "D:/HalaMek/PythonCodes/sshall/localFolder/",
+ "remote_folder": "/home/stud/is2016/pcholost/sieci",
+ "server_address": "sendzimir.metal.agh.edu.pl",
+ "port": 22,
+ "mode": "update",
+ "ignore" :["txt"]
+}
